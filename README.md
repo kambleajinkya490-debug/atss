@@ -56,7 +56,7 @@ nano .env
 ### 3. Build & Run
 
 ```bash
-docker compose up --build
+docker compose up -d --build
 ```
 
 - **Frontend**: http://localhost:3000
